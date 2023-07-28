@@ -5,7 +5,9 @@ Journal Options
 
 Allows the assignment of low, normal, or high priority. This can be displayed in the journal list or used in advanced filtering.
 
-**Confidentiality**:
+Confidentiality:
+----
+
 You can set a confidentiality level for your emails/journals to let recipients know about your intentions when sending a message. The following options are available:
 
 - normal: Corresponds to no specific confidentiality level and, therefore, does not display any indication in the journal's status bar. Visibility is set to "All employees."
