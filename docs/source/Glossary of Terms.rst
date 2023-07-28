@@ -1,43 +1,51 @@
 Glossary of Terms
 =====
 
-**Bedienleiste**
+**Toolbar**
 
-Die Bedienleiste befindet sich am oberen Bildschirmrand und beinhaltet die am häufigsten verwendeten Funktionen, abhängig vom aktuellen Inhalt des Fensters.
+The toolbar is located at the top of the screen and contains the most frequently used functions, depending on the current content of the window.
 
 **Container**
 
-Ein Container ist ein Fenster, das zur Darstellung der Formulare zu den Einträgen und Modulen geöffnet wird.
-Beispiel: Öffnen einer Firma erzeugt den Container - die weiteren Formulare werden in diesem Container geöffnet.
+A container is a window that opens to display forms for entries and modules.
+Example: Opening a company creates the container - the additional forms will open within this container.
 
-**Formular**
+**Form**
 
-Ein Formular ist der Dialog, mit dem ein Eintrag bearbeitet werden kann, oder eine Liste von Einträgen dargestellt wird.
+A form is the dialog used to edit an entry or display a list of entries.
 
-**Hauptfenster**
-Ist die Hauptebene von Relations, hier hat man Zugriff auf alle Module.
+**Main Window**
 
-**Liste**
-In einer Liste werden die Einträge der Module dargestellt. Die angezeigten Spalten hängen vom jeweiligen Modul ab und können beliebig angeordnet und gruppiert werden.
+The main level of Relations, where you have access to all modules.
 
-**Menü**
-Menüs werden durch einen rechten Mausklick auf die jeweilige Bildschirmposition angezeigt. Sie bieten die jeweiligen Bedienmöglichkeiten zum ausgewählten Element an.
+**List**
 
-**Modul**
-Module sind die in Relations verfügbaren Objekte. Abhängig von der jeweiligen Lizenzierung kann sich die Anzahl dieser Module unterscheiden. 
+In a list, the entries of the modules are displayed. The displayed columns depend on the specific module and can be arranged and grouped as desired.
 
-So werden z.B. Kontakte, Projekte, Aufgaben, Termine, Journale und Dokumente als Module bezeichnet. Diese sind im Standardausbau vorhanden.
+**Menu**
 
-Module wie Tickets oder Angebote sind nur bei entsprechender Lizenzierung verfügbar.
+Menus are displayed by right-clicking on the respective screen position. They provide the respective options for interacting with the selected element.
 
-**Modulleiste**
-Die Modulleiste befindet sich auf der linken Seite und bietet den Zugang zu den Einträgen der Module, der Telefonliste sowie Ihrem Posteingang. Sie kann je nach Einstellung und Lizenzierung bei den Benutzern unterschiedliche Inhalte enthalten.
+**Module**
 
-**Registerkarte**
-In einem Fenster werden mehrere Formulare dargestellt. Über die Registerkarte am oberen Rand kann zwischen diesen Formularen umgeschaltet werden.
+Modules are the objects available in Relations. The number of modules may vary depending on the licensing.
 
-**Statusleiste**
-Die Statusleiste liefert Informationen zu den aktuellen Arbeitsschritten und Einstellungen (z.B. Fortschrittsbalken bei länger dauernden Aktionen).
+For example, contacts, projects, tasks, appointments, journals, and documents are referred to as modules, which are available in the standard setup.
 
-**Symbolleiste**
-Leiste aus grafischen Elementen, die mit einer Funktion verknüpft sind.
+Modules like tickets or offers are only available with appropriate licensing.
+
+**Module Bar**
+
+The module bar is located on the left side and provides access to the entries of modules, the phone list, and your inbox. It may contain different contents for users based on settings and licensing.
+
+**Tab**
+
+In a window, multiple forms are displayed. Tabs at the top allow switching between these forms.
+
+**Status Bar**
+
+The status bar provides information about current actions and settings (e.g., progress bar for longer-lasting actions).
+
+**Toolbar**
+
+A bar consisting of graphical elements linked to specific functions.
