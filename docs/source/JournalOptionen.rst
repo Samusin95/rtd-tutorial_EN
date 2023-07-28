@@ -1,22 +1,20 @@
-Journal Optionen
+Journal Options
 =====
 
-**Priorität**:
+**Priority**:
 
-ermöglicht die Zuordnung der Priorität niedrig, normal oder hoch. Diese kann in der Journalliste dargestellt oder im erweiterten Filter verwendet werden.
+Allows the assignment of low, normal, or high priority. This can be displayed in the journal list or used in advanced filtering.
 
+**Confidentiality**:
+You can set a confidentiality level for your emails/journals to let recipients know about your intentions when sending a message. The following options are available:
 
-**Vertraulichkeit**:
-Sie können eine Vertraulichkeitsstufe für Ihre E-Mails/Journale festlegen, damit die Empfänger Wissen über Ihre Absichten beim Senden einer Nachricht erhalten.
-Es steht folgende Auswahl zur Verfügung:
+- normal: Corresponds to no specific confidentiality level and, therefore, does not display any indication in the journal's status bar. Visibility is set to "All employees."
 
-- normal: entspricht keiner Vertraulichkeitsstufe und daher erfolgt keine Anzeige in der Statuszeile des Journals. Die Sichtbarkeit wird auf "alle Mitarbeiter" gesetzt.
+- private: The journal's status bar displays the text "Please consider this matter as private!" Visibility is set to the logged-in user.
 
-- privat: Die Statuszeile des Journals zeigt den Text "Bitte betrachten Sie diese Angelegenheit als privat!" an. Die Sichtbarkeit wird auf den angemeldeten Benutzer gesetzt.
+- personal: The journal's status bar displays the text "Please consider this matter as personal!" Visibility is set to the logged-in user.
 
-- persönlich: Die Statuszeile des Journals zeigt den Text "Bitte betrachten Sie diese Angelegenheit als persönlich!" an. Die Sichtbarkeit wird auf den angemeldeten Benutzer gesetzt.
+- confidential: The journal's status bar displays the text "Please consider this matter as confidential!" Visibility is set to the logged-in user and all employees linked to the journal.
 
-- vertraulich: Die Statuszeile des Journals zeigt den Text "Bitte betrachten Sie diese Angelegenheit als vertraulich!" an. Die Sichtbarkeit wird auf den angemeldeten Benutzer und alle im Journal verknüpften Mitarbeiter gesetzt.
-
-Beim E-Mail Senden: die Vertraulichkeit wird an das E-Mail übergeben und damit an den E-Mail Empfänger gesendet.
-Beim E-Mail Import: die Vertraulichkeit wird aus dem E-Mail in das Journal übernommen und auch hier die Sichtbarkeit entsprechend gesetzt.
+When Sending an Email: The confidentiality level is transferred to the email and sent to the email recipient.
+When Importing an Email: The confidentiality level is taken from the email and applied to the journal, setting the visibility accordingly.
