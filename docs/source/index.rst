@@ -1,13 +1,13 @@
-Hilfetest
-===================================
+Help test
+====
 
-**Hilfetest**
+**Help test**
 
-Dieser Text dient als Kurzbeschreibung zum Programm
+This text serves as a short description of the program.
 
 .. note::
 
-   Dieses Projekt ist noch in Bearbeitung.
+   This project is still under development.
 
 Contents
 --------
