@@ -15,4 +15,4 @@ Contents
 .. toctree::
 
    JournalOptionen
-   api
+   Glossary of Terms
