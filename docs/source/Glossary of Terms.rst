@@ -55,7 +55,7 @@ Status Bar
 
 The status bar provides information about current actions and settings (e.g., progress bar for longer-lasting actions).
 
-Toolbar
+Symbolbar
 ----
 
 A bar consisting of graphical elements linked to specific functions.
