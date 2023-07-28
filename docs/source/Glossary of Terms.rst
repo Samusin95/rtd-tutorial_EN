@@ -50,7 +50,7 @@ Tab
 
 In a window, multiple forms are displayed. Tabs at the top allow switching between these forms.
 
-Status Bar
+Status Bar MIS
 ----
 
 The status bar provides information about current actions and settings (e.g., progress bar for longer-lasting actions).
